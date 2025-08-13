@@ -98,33 +98,6 @@ The application comes with pre-loaded sample courses:
 3. **English Grammar**: Parts of speech, grammar rules
 4. **Computer Basics**: Computer fundamentals and usage
 
-## Deployment
-
-### Option 1: Render (Recommended)
-
-1. Create account at [render.com](https://render.com)
-2. Connect your GitHub repository
-3. Create a new Web Service
-4. Set build command: `pip install -r requirements.txt`
-5. Set start command: `gunicorn app:app`
-6. Deploy!
-
-### Option 2: Vercel
-
-1. Create account at [vercel.com](https://vercel.com)
-2. Install Vercel CLI: `npm i -g vercel`
-3. Run `vercel` in project directory
-4. Follow prompts to deploy
-
-### Option 3: Heroku
-
-1. Create account at [heroku.com](https://heroku.com)
-2. Install Heroku CLI
-3. Run commands:
-   ```bash
-   heroku create your-app-name
-   git push heroku main
-   ```
 
 ## Usage
 
@@ -148,23 +121,6 @@ All user interactions are automatically logged to `clickstream_data.csv`:
 
 ## Customization
 
-### Adding New Courses
-
-1. Add course data to the database
-2. Create lesson content
-3. Update templates if needed
-
-### Modifying Design
-
-1. Edit CSS in `templates/base.html`
-2. Update Bootstrap classes
-3. Add custom JavaScript
-
-### Adding Features
-
-1. Extend Flask routes in `app.py`
-2. Create new templates
-3. Update database schema
 
 ## Security Features
 
@@ -180,18 +136,3 @@ All user interactions are automatically logged to `clickstream_data.csv`:
 - Database indexing
 - Efficient queries
 - Responsive design
-
-## Support
-
-For questions or issues:
-1. Check the documentation
-2. Review error logs
-3. Contact support team
-
-## License
-
-This project is open source and available under the MIT License.
-
----
-
-**Made with ❤️ for young learners everywhere!** 
