@@ -119,8 +119,6 @@ All user interactions are automatically logged to `clickstream_data.csv`:
 - Login/logout events
 - User registration
 
-## Customization
-
 
 ## Security Features
 
@@ -136,3 +134,4 @@ All user interactions are automatically logged to `clickstream_data.csv`:
 - Database indexing
 - Efficient queries
 - Responsive design
+
