@@ -1,0 +1,205 @@
+Time,Event context,Component,Event name,Description,Origin,IP address
+"08/10/25, 18:15:56",Test Course,Test Component,Test Event,Test Description,test,127.0.0.1
+"08/10/25, 18:18:53",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:19:13",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:19:37",Registration,System,User registered,New user 'Ayush Patel' registered,web,127.0.0.1
+"08/10/25, 18:19:49",Login,System,User logged in,User 'Ayush Patel' logged in,web,127.0.0.1
+"08/10/25, 18:19:49",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:19:59",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:20:02",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:20:15",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:20:19",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 18:20:25",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 18:20:27",Course: 3,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/10/25, 18:20:41",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:20:46",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:20:48",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:20:49",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:20:52",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:20:55",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 18:20:57",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'What is Science?',web,127.0.0.1
+"08/10/25, 18:21:00",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 18:21:01",Logout,System,User logged out,User 'Ayush Patel' logged out,web,127.0.0.1
+"08/10/25, 18:21:01",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:24:38",Login,System,User logged in,User 'Ayush Patel' logged in,web,127.0.0.1
+"08/10/25, 18:24:38",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:24:43",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:24:44",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:24:52",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:24:54",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 18:24:59",Course: 3,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/10/25, 18:26:22",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:36:43",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:36:46",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:36:47",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:36:49",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:36:55",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:36:57",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 18:37:00",Course: 3,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/10/25, 18:38:15",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:39:14",Registration,System,User registered,New user 'Ayush' registered,web,127.0.0.1
+"08/10/25, 18:39:21",Login,System,User logged in,User 'Ayush' logged in,web,127.0.0.1
+"08/10/25, 18:39:21",Dashboard,System,Dashboard viewed,User 'Ayush' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:39:26",Course: Basic Math for Kids,System,Course viewed,User 'Ayush' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:39:27",Course: 2,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 18:39:31",Course: 1,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:39:36",Course: Basic Math for Kids,System,Course viewed,User 'Ayush' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:39:38",Course: 3,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/10/25, 18:39:43",Dashboard,System,Dashboard viewed,User 'Ayush' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:39:46",Course: English Grammar,System,Course viewed,User 'Ayush' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 18:39:47",Course: 1,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 18:48:22",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:48:24",Dashboard,System,Dashboard viewed,User 'Ayush' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:48:25",Course: Basic Math for Kids,System,Course viewed,User 'Ayush' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:48:27",Course: 1,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:48:31",Course: Basic Math for Kids,System,Course viewed,User 'Ayush' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:48:32",Course: 2,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 18:48:35",Course: 3,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/10/25, 18:48:41",Course: Basic Math for Kids,System,Course viewed,User 'Ayush' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:48:42",Dashboard,System,Dashboard viewed,User 'Ayush' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:48:47",Course: English Grammar,System,Course viewed,User 'Ayush' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 18:48:48",Course: 1,Lesson,Lesson viewed,User 'Ayush' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 18:57:09",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 18:57:11",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:57:16",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 18:57:17",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 18:57:20",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 18:57:21",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Grammar Quiz',web,127.0.0.1
+"08/10/25, 18:57:26",Quiz,Quiz,Quiz completed,User 'Ayush Patel' completed quiz with score 50,web,127.0.0.1
+"08/10/25, 18:57:28",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Grammar Quiz',web,127.0.0.1
+"08/10/25, 18:57:38",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 18:57:41",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 18:57:45",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 18:57:47",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 18:57:50",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 18:57:52",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'What is Science?',web,127.0.0.1
+"08/10/25, 18:57:55",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 18:57:59",Course: 3,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Science Quiz',web,127.0.0.1
+"08/10/25, 18:58:07",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 18:58:09",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 18:58:23",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 18:58:25",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'What is Science?',web,127.0.0.1
+"08/10/25, 18:58:47",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'What is Science?',web,127.0.0.1
+"08/10/25, 18:58:48",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'What is Science?',web,127.0.0.1
+"08/10/25, 18:58:53",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:04:06",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 19:04:14",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:04:20",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 19:04:22",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 19:04:28",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 19:04:30",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 19:04:33",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/10/25, 19:04:35",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:04:38",Course: Computer Basics,System,Course viewed,User 'Ayush Patel' viewed course 'Computer Basics',web,127.0.0.1
+"08/10/25, 19:04:40",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'What is a Computer?',web,127.0.0.1
+"08/10/25, 19:04:44",Course: Computer Basics,System,Course viewed,User 'Ayush Patel' viewed course 'Computer Basics',web,127.0.0.1
+"08/10/25, 19:04:45",Dashboard,System,Dashboard viewed,User 'Ayush Patel' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:04:49",Course: Basic Math for Kids,System,Course viewed,User 'Ayush Patel' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:05:04",Course: 2,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 19:05:14",Course: 1,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 19:05:20",Course: English Grammar,System,Course viewed,User 'Ayush Patel' viewed course 'English Grammar',web,127.0.0.1
+"08/10/25, 19:05:23",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 19:05:24",Course: 3,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Science Quiz',web,127.0.0.1
+"08/10/25, 19:05:50",Course: Science Adventures,System,Course viewed,User 'Ayush Patel' viewed course 'Science Adventures',web,127.0.0.1
+"08/10/25, 19:05:57",Course: Computer Basics,System,Course viewed,User 'Ayush Patel' viewed course 'Computer Basics',web,127.0.0.1
+"08/10/25, 19:05:59",Course: 3,Lesson,Lesson viewed,User 'Ayush Patel' viewed lesson 'Computer Quiz',web,127.0.0.1
+"08/10/25, 19:14:04",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 19:14:28",Registration,System,User registered,New user 'a' registered,web,127.0.0.1
+"08/10/25, 19:15:05",Registration,System,User registered,New user 'ap' registered,web,127.0.0.1
+"08/10/25, 19:15:12",Login,System,User logged in,User 'ap' logged in,web,127.0.0.1
+"08/10/25, 19:15:12",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:15:19",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:15:21",Course: 1,Lesson,Lesson viewed,User 'ap' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 19:15:25",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:15:26",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:15:28",Course: 2,Lesson,Lesson viewed,User 'ap' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 19:15:35",Quiz,Quiz,Quiz completed,User 'ap' completed quiz with score 33,web,127.0.0.1
+"08/10/25, 19:15:37",Course: 2,Lesson,Lesson viewed,User 'ap' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 19:15:39",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:15:41",Course: 1,Lesson,Lesson viewed,User 'ap' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 19:15:49",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:15:50",Course: 3,Lesson,Lesson viewed,User 'ap' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/10/25, 19:15:57",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:15:58",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:16:03",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:16:04",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:16:06",Course: Computer Basics,System,Course viewed,User 'ap' viewed course 'Computer Basics',web,127.0.0.1
+"08/10/25, 19:16:08",Course: 1,Lesson,Lesson viewed,User 'ap' viewed lesson 'What is a Computer?',web,127.0.0.1
+"08/10/25, 19:16:12",Course: Computer Basics,System,Course viewed,User 'ap' viewed course 'Computer Basics',web,127.0.0.1
+"08/10/25, 19:16:18",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:16:20",Course: 2,Lesson,Lesson viewed,User 'ap' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/10/25, 19:16:22",Course: 1,Lesson,Lesson viewed,User 'ap' viewed lesson 'Addition Basics',web,127.0.0.1
+"08/10/25, 19:16:24",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:16:26",Course: Basic Math for Kids,System,Course viewed,User 'ap' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/10/25, 19:16:31",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/10/25, 19:16:32",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/10/25, 19:16:35",Dashboard,System,Dashboard viewed,User 'ap' viewed dashboard,web,127.0.0.1
+"08/12/25, 17:43:30",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 17:43:30",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 17:43:32",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 17:43:33",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 17:43:36",Course: 2,Lesson,Lesson viewed,User 'a' viewed lesson 'Addition Quiz',web,127.0.0.1
+"08/12/25, 17:43:40",Course: Science Adventures,System,Course viewed,User 'a' viewed course 'Science Adventures',web,127.0.0.1
+"08/12/25, 17:43:42",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Science Quiz',web,127.0.0.1
+"08/12/25, 17:43:48",Quiz,Quiz,Quiz completed,User 'a' completed quiz with score 0,web,127.0.0.1
+"08/12/25, 17:43:51",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Science Quiz',web,127.0.0.1
+"08/12/25, 17:43:57",Course: Science Adventures,System,Course viewed,User 'a' viewed course 'Science Adventures',web,127.0.0.1
+"08/12/25, 17:44:01",Course: 2,Lesson,Lesson viewed,User 'a' viewed lesson 'Simple Experiments',web,127.0.0.1
+"08/12/25, 17:44:04",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 17:57:38",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 17:57:43",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 17:57:43",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 17:57:46",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 17:57:49",Course: English Grammar,System,Course viewed,User 'a' viewed course 'English Grammar',web,127.0.0.1
+"08/12/25, 17:57:51",Course: 2,Lesson,Lesson viewed,User 'a' viewed lesson 'Grammar Quiz',web,127.0.0.1
+"08/12/25, 17:57:55",Quiz,Quiz,Quiz completed,User 'a' completed quiz with score 50,web,127.0.0.1
+"08/12/25, 17:57:57",Course: 2,Lesson,Lesson viewed,User 'a' viewed lesson 'Grammar Quiz',web,127.0.0.1
+"08/12/25, 17:58:02",Course: English Grammar,System,Course viewed,User 'a' viewed course 'English Grammar',web,127.0.0.1
+"08/12/25, 17:58:09",Course: English Grammar,System,Course viewed,User 'a' viewed course 'English Grammar',web,127.0.0.1
+"08/12/25, 17:58:11",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 17:58:19",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 17:58:21",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/12/25, 17:58:27",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:23:25",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 18:23:25",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 18:23:27",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 18:23:28",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:23:30",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/12/25, 18:23:33",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:23:36",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/12/25, 18:23:45",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:23:48",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:23:49",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:23:55",Course: Science Adventures,System,Course viewed,User 'a' viewed course 'Science Adventures',web,127.0.0.1
+"08/12/25, 18:23:57",Course: 2,Lesson,Lesson viewed,User 'a' viewed lesson 'Simple Experiments',web,127.0.0.1
+"08/12/25, 18:24:05",Course: Science Adventures,System,Course viewed,User 'a' viewed course 'Science Adventures',web,127.0.0.1
+"08/12/25, 18:35:07",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 18:35:10",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 18:35:12",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:35:15",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/12/25, 18:35:19",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:52:14",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 18:52:16",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 18:52:18",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 18:52:22",Course: Science Adventures,System,Course viewed,User 'a' viewed course 'Science Adventures',web,127.0.0.1
+"08/12/25, 18:52:23",Course: 1,Lesson,Lesson viewed,User 'a' viewed lesson 'What is Science?',web,127.0.0.1
+"08/12/25, 18:52:26",Course: Science Adventures,System,Course viewed,User 'a' viewed course 'Science Adventures',web,127.0.0.1
+"08/12/25, 19:09:23",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 19:09:23",Homepage,System,Page viewed,User visited the homepage,web,127.0.0.1
+"08/12/25, 19:09:25",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 19:09:26",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 19:09:31",Course: English Grammar,System,Course viewed,User 'a' viewed course 'English Grammar',web,127.0.0.1
+"08/12/25, 19:09:32",Course: 1,Lesson,Lesson viewed,User 'a' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/12/25, 19:09:34",Lesson,Lesson,Lesson completed,User 'a' marked lesson as complete,web,127.0.0.1
+"08/12/25, 19:09:36",Course: 1,Lesson,Lesson viewed,User 'a' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/12/25, 19:09:38",Course: English Grammar,System,Course viewed,User 'a' viewed course 'English Grammar',web,127.0.0.1
+"08/12/25, 19:09:41",Course: 1,Lesson,Lesson viewed,User 'a' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/12/25, 19:09:44",Course: 1,Lesson,Lesson viewed,User 'a' viewed lesson 'Parts of Speech',web,127.0.0.1
+"08/12/25, 19:09:51",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 19:10:13",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
+"08/12/25, 19:10:15",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 19:10:17",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/12/25, 19:10:19",Lesson,Lesson,Lesson completed,User 'a' marked lesson as complete,web,127.0.0.1
+"08/12/25, 19:10:21",Course: 3,Lesson,Lesson viewed,User 'a' viewed lesson 'Subtraction Video',web,127.0.0.1
+"08/12/25, 19:10:23",Course: Basic Math for Kids,System,Course viewed,User 'a' viewed course 'Basic Math for Kids',web,127.0.0.1
+"08/12/25, 19:10:25",Dashboard,System,Dashboard viewed,User 'a' viewed dashboard,web,127.0.0.1
